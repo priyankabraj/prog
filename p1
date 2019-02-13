@@ -1,0 +1,27 @@
+<html>
+<head>
+<title>my first web  page</title>
+</head>
+<body bgcolor='yellow'>
+<p>welcome to the 
+world</p>
+<p><b>i</b>t's a story of <br/>books <hr/>and cards<h1>ABC</h1></p>
+<pre><b>o</b>ne of the 
+     biggest city</pre>
+<p>inspiration <i><u>of great people</u></i></p>
+<p><strike>spark of light</strike>
+<p><b>h</b>yderabad <tt>is city of pearls</tt><p>
+10<sup>6</sup> 10<sub>2</sub>
+</br><ins>lonely planet</ins><del>in system</del>
+</br>its a <big>big thing</big>
+and a <small>small thing</small>
+<p align=left>abc</p>
+<p align=right>xyz</p>
+<p align=center>enter</p>
+<p dir=rtl>right to left</p>
+<p dir=ltr>left to right</p>
+<p style="background-color:1;font-size:30px">its a story</p>
+<em>something</em>
+<address>bengaluru</address>
+</body>
+</html>
